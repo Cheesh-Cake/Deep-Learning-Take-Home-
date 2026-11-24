@@ -1,4 +1,4 @@
-Tugas Take-Home **Deep Learning (D6421), Sesi 07: Generative Models**.
+Tugas Take-Home **Deep Learning (D6421)**.
 Proyek ini membandingkan enam arsitektur generatif pada dataset dan protokol evaluasi yang sama, serta membuktikan secara empiris mengapa bobot dan fitur laten **MLP Classifier** tidak dapat dipakai untuk image generation.
 
 **Penulis:** `Achmad Sanusi` · **NIM:** `2802515280` · **Kelas:** `LB01`
